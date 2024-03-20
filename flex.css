@@ -1,0 +1,22 @@
+main{
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    padding:0.5cm;
+    margin: 3cm;
+    line-height: 4;
+    /* display: flex;
+    gap: 3rem; */
+    /* justify-content: space-evenly;
+    border: 1px solid #080505;
+    flex-direction: column;
+    flex */
+    align-items: center;
+    border: 2px solid orange;
+    
+    border-radius: 7cm;
+    
+    
+}

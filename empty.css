@@ -1,0 +1,27 @@
+body{
+    font-size: 4;
+    font: weight 70px; ;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(OIP.jpeg);
+    color: rgba(169, 223, 243, 0.658);
+    
+}
+.float{
+    
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 1cm;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    position: relative;
+    list-style-type: none;
+   
+}
+li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
